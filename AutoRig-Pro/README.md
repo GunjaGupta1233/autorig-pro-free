@@ -1,1 +1,1 @@
-Make sure you download whole AutoRig-Pro folder.
+Make sure you download the whole AutoRig-Pro folder.
