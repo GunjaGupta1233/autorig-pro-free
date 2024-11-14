@@ -1,1 +1,1 @@
-This file is just a README.md for starting a folder you can avoid it.
+Make sure you download whole AutoRig-Pro folder.
